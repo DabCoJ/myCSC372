@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a887b74f-6c77-4dd8-81fa-b77891fdd0d9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2j4EMaiY1Fzt9O9PLUKbXBtQ5S3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a887b74f-6c77-4dd8-81fa-b77891fdd0d9" name="Changes" comment="" />
+      <created>1720637902863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720637902863</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Option #1:  Implementing a Superclass Bank Account&#10;Part 1: Implement a superclass BankAccount that has the following fields and methods.&#10;&#10;Fields:&#10;&#10;string firstName&#10;string lastName&#10;int accountID&#10;double balance&#10;Methods:  &#10;&#10;constructor():  initialize balance to zero&#10;deposit() - will accept a single value double parameter; the parameter value is added to the existing balance&#10;withdrawal() - accepts a single value double dollar amount; the parameter value is subtracted from the existing balance&#10;Setters and getters for firstName, lastName, and accountID&#10;getBalance() getter to return the balance&#10;accountSummary() - prints all account information&#10;Part 2: Implement a CheckingAccount class that inherits from the BankAccount class, that: &#10;&#10;Has an interest rate attribute&#10;Allows overdraft withdrawals and charges a $30 fee&#10;Methods:&#10;&#10;processWithdrawal() - will display a negative balance that includes a $30 overdraft fee and denotes that a fee has been accessed&#10;displayAccount() - should display all superclass attributes and provides an additional interest rate&#10;Ensure that your program has the two required classes and a test class.&#10;&#10;Place each Java class into a separate Java source file.&#10;&#10;Students must use appropriate version control for all programmatic assignments created. GIT repositories should be established and screen captures of repositories submitted with each assignment.&#10;&#10;Submit screenshots of your program's execution and output. Include all appropriate source code in a zip file.">
+      <created>1720638422845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720638422845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Option #1:  Implementing a Superclass Bank Account&#10;Part 1: Implement a superclass BankAccount that has the following fields and methods.&#10;&#10;Fields:&#10;&#10;string firstName&#10;string lastName&#10;int accountID&#10;double balance&#10;Methods:  &#10;&#10;constructor():  initialize balance to zero&#10;deposit() - will accept a single value double parameter; the parameter value is added to the existing balance&#10;withdrawal() - accepts a single value double dollar amount; the parameter value is subtracted from the existing balance&#10;Setters and getters for firstName, lastName, and accountID&#10;getBalance() getter to return the balance&#10;accountSummary() - prints all account information&#10;Part 2: Implement a CheckingAccount class that inherits from the BankAccount class, that: &#10;&#10;Has an interest rate attribute&#10;Allows overdraft withdrawals and charges a $30 fee&#10;Methods:&#10;&#10;processWithdrawal() - will display a negative balance that includes a $30 overdraft fee and denotes that a fee has been accessed&#10;displayAccount() - should display all superclass attributes and provides an additional interest rate&#10;Ensure that your program has the two required classes and a test class.&#10;&#10;Place each Java class into a separate Java source file.&#10;&#10;Students must use appropriate version control for all programmatic assignments created. GIT repositories should be established and screen captures of repositories submitted with each assignment.&#10;&#10;Submit screenshots of your program's execution and output. Include all appropriate source code in a zip file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Option #1:  Implementing a Superclass Bank Account&#10;Part 1: Implement a superclass BankAccount that has the following fields and methods.&#10;&#10;Fields:&#10;&#10;string firstName&#10;string lastName&#10;int accountID&#10;double balance&#10;Methods:  &#10;&#10;constructor():  initialize balance to zero&#10;deposit() - will accept a single value double parameter; the parameter value is added to the existing balance&#10;withdrawal() - accepts a single value double dollar amount; the parameter value is subtracted from the existing balance&#10;Setters and getters for firstName, lastName, and accountID&#10;getBalance() getter to return the balance&#10;accountSummary() - prints all account information&#10;Part 2: Implement a CheckingAccount class that inherits from the BankAccount class, that: &#10;&#10;Has an interest rate attribute&#10;Allows overdraft withdrawals and charges a $30 fee&#10;Methods:&#10;&#10;processWithdrawal() - will display a negative balance that includes a $30 overdraft fee and denotes that a fee has been accessed&#10;displayAccount() - should display all superclass attributes and provides an additional interest rate&#10;Ensure that your program has the two required classes and a test class.&#10;&#10;Place each Java class into a separate Java source file.&#10;&#10;Students must use appropriate version control for all programmatic assignments created. GIT repositories should be established and screen captures of repositories submitted with each assignment.&#10;&#10;Submit screenshots of your program's execution and output. Include all appropriate source code in a zip file." />
+  </component>
+</project>
